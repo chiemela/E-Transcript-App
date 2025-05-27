@@ -140,7 +140,7 @@ Below are screenshots illustrating the key functionalities and user interface of
 | :---------------------------------------: | :------------------------------------: | :----------------------------------------: | :--------------------------------------: |
 | ![Download PDF](assets/screenshots/view-4-download-transcript-record-as-pdf.jpeg) | ![PDF View](assets/screenshots/view-5-downloaded-transcript-pdf-view.jpeg) | ![Manage Records](assets/screenshots/view-6-manage-saved-transcript-record.jpeg) | ![Delete Record](assets/screenshots/view-7-delete-transcript-record.jpeg) |
 
-*Note: Please ensure the screenshot images are placed in an `assets/screenshots/` directory within your repository, relative to this README file.*
+
 
 ---
 
