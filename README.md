@@ -180,6 +180,6 @@ Project Link: [https://github.com/chiemela/E-Transcript-App](https://github.com/
 *   [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
 *   [Shields.io](https://shields.io/)
 *   [Choose an Open Source License](https://choosealicense.com)
-*   (Add specific PHP PDF library if known, e.g., FPDF, TCPDF, Dompdf)
+*   [FPDF](http://www.fpdf.org/) - A free PDF class for PHP
 
 ---
