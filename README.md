@@ -169,7 +169,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Your Name / Organization Name - [your_email@example.com]
+Chiemela / Eliam Technologies - [info@eliamtechnologies.com]
 
 Project Link: [https://github.com/chiemela/E-Transcript-App](https://github.com/chiemela/E-Transcript-App)
 
